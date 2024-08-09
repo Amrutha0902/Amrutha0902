@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Amrutha0902
+- 👀 I’m interested in learning new programming languages and exploring the world of tech.
+- 🌱 I’m currently learning Python and JavaScript.
+- 💞️ I’m looking to collaborate on projects that involve machine learning, web development, or data analysis.
+- 📫 How to reach me: You can reach me on GitHub or email me at [amruthamanam@gmail.com].
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love trying out new recipes in my free time and experimenting with different flavors.
